@@ -16,7 +16,7 @@
 | TASK 5 ( Inputs ) | 5 - input validation, f-strings | `TASK 05.py` |
 | TASK 6 ( Functions ) | 6 - functions and scope | `TASK 06.py` |
 | TASK 7 ( Module ) | 7 - `milkrate.py` module (TODO 1, 2) | `TASK 07.py` |
-| TASK 8 ( Algorithm ) | 8 - pseudocode, flowchart, trace | `TASK 08.py`, 'TASK 08 PLAND.md'|
+| TASK 8 ( Algorithm ) | 8 - pseudocode, flowchart, trace | `TASK 08.py`, 'TASK 08 PLAN.md'|
 | TASK 9 ( Testing )| 9 - calculator and assert tests | `TASK 09.py` |
 | TASK 10 (Comparision )| 10 - float vs Decimal, timing, rate table | `TASK 10.py` |
 | TASK 11 ( Recommendation ) | 11 - JSON rate card alternative | `TASK 11.py` |
